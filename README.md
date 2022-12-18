@@ -3,4 +3,4 @@
 - Bardzo to lubie
 - To latwe
 
-- [] czy to zadziala?
+- [ ] czy to zadziala?
